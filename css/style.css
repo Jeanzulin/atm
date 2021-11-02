@@ -1374,13 +1374,19 @@ text-decoration: underline; }
                 width: 100%}
          
         }
+        @media (max-width: 425px) {
+                .slick-dots {
+                    bottom: -20px;
+                }}
+
             @media (max-width: 375px) {
                 .slick-prev, .slick-next {
                     top: 30%;}
+
                 .center1, .center2 { 
                     min-height: 378px;}
                     .slick-dots {
-                        bottom: 50px;
+                        bottom: 30px;
                     }
             
 }
