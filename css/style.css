@@ -413,7 +413,7 @@ hr {
 }
 @media screen and (max-width: 576px) {
     .mainTitle {
-        font-size: 18px;
+        font-size: 20px;
         line-height: 32px;
     }
     .mainTitle + p{
@@ -957,7 +957,7 @@ margin-bottom: 4px;
          }
 @media screen and (max-width: 576px) {
     .section3 .title {
-        font-size: 16px;
+        font-size: 18px;
         padding: 0px 0;
     }
     .notice-content p, .notice-content ul li{
